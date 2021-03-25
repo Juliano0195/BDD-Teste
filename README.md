@@ -1,7 +1,9 @@
-# BDD-Teste
+# BDD Teste Saraiva
+
+
 Cenário de cadastro Saraiva
 
-Cucumber desenvolvido em Javascript com chai.
+BDD em Cucumber desenvolvido e Javascript com chai.
 
 Antes de iniciar o projeto, será necessário a instalação do framework chai com o comando "npm install --dev chai"
 
